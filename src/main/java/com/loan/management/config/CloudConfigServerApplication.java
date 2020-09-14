@@ -1,4 +1,4 @@
-package com.scb.cts.academy.config;
+package com.loan.management.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
